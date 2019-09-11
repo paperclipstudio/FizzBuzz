@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fizz",
+            "request": "launch",
+            "mainClass": "fizz",
+            "projectName": "java_3295bcd3"
+        }
+    ]
+}
